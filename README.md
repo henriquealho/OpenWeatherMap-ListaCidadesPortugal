@@ -19,4 +19,4 @@ Um exemplo em Java para obter cada linha (cidade) do ficheiro: https://github.co
 
 Lista original do OpenWeatherMaps: http://openweathermap.org/help/city_list.txt
 
-"Feel free to use this as you want but, if you manage to improve this, share!"
+> "Feel free to use this as you want but, if you manage to improve this, share!"
