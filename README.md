@@ -18,3 +18,5 @@ Nomes de cidades com mais de uma palavra são separados por '_' por forma a perm
 Um exemplo em Java para obter cada linha (cidade) do ficheiro: https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/Main.java
 
 Lista original do OpenWeatherMaps: http://openweathermap.org/help/city_list.txt
+
+"Feel free to use this as you want but, if you manage to improve this, share!"
