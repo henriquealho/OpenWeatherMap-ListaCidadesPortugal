@@ -3,6 +3,7 @@
 ### Índice
 * [Contribuidores](#contribuidores)
 * [Exemplos](#exemplos)
+* [Bases de Dados](#bd)
 * [Mundial](#mundial)
 * [Objetivo](#objetivo)
 * [Original](#original)
@@ -41,6 +42,9 @@ Assim, o objetivo global é conseguir reunir-se neste repositório as listas das
 * [C#](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.cs)
 * [Java](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.java)
 * [JavaScript](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.js)
+
+#### BD
+* [MySQL](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_cities_MySql.sql) *Código de inserção das cidades em base de dados MySQL*
 
 ### Mundial
 *Lista de todas as cidades do mundo*
