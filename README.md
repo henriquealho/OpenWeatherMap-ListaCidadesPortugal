@@ -38,7 +38,8 @@ Assim, o objetivo global é conseguir reunir-se neste repositório as listas das
 ### Exemplos
 *Exemplos de extração das cidades do ficheiro para código, em diversas linguagens.*
 
-* [Java](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/Main.java)
+* [C#](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.cs)
+* [Java](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.java)
 
 ### Mundial
 *Lista de todas as cidades do mundo*
