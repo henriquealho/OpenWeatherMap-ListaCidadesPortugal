@@ -40,6 +40,7 @@ Assim, o objetivo global é conseguir reunir-se neste repositório as listas das
 
 * [C#](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.cs)
 * [Java](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.java)
+* [JavaScript](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.js)
 
 ### Mundial
 *Lista de todas as cidades do mundo*
@@ -58,4 +59,4 @@ Assim, o objetivo global é conseguir reunir-se neste repositório as listas das
 
 ### Contribuidores
 Um muito obrigado aos contribuidores deste pequeno, mas útil, projeto.
-* Exemplo JavaScript: [@alpha-oliveira](https://github.com/alpha-oliveira)
+* Exemplo [JavaScript](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.js): [@alpha-oliveira](https://github.com/alpha-oliveira)
